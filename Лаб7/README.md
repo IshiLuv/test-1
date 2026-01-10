@@ -31,6 +31,4 @@
 
 ### Tests
 Тесты проверяют use-case и доменные инварианты без реальной БД.
-
-## Project structure
 ![alt text](image.png)
